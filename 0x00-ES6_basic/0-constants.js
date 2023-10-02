@@ -1,3 +1,5 @@
+/*eslint-disable no-underscore-dangle*/
+
 export function taskFirst() {
 	const task = 'I prefer const when i can.';
 	return task;
